@@ -142,3 +142,9 @@ zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
 redshift
+thunderbird
+wire-desktop
+flac
+vlc
+curl
+oh-my-zsh-git

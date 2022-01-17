@@ -19,3 +19,4 @@ spotify
 qbittorrent-qt5
 ttf-ms-fonts
 wps-office
+powerline-fonts-git

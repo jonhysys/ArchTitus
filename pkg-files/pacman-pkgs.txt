@@ -44,7 +44,6 @@ flex
 fuse2
 fuse3
 fuseiso
-gamemode
 gcc
 gimp
 git
@@ -129,7 +128,6 @@ ufw
 unrar
 unzip
 usbutils
-vim
 virt-manager
 virt-viewer
 wget
@@ -150,3 +148,4 @@ curl
 oh-my-zsh-git
 zsh-completions
 zsh-themes-powerlevel9k
+mc

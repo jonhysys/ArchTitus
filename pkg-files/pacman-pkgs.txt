@@ -148,3 +148,5 @@ flac
 vlc
 curl
 oh-my-zsh-git
+zsh-completions
+zsh-themes-powerlevel9k
